@@ -1,4 +1,4 @@
-#Miscellaneous projects that practices different skills in Python
+# Miscellaneous projects that practices different skills in Python
 
 **compare.py** is a program that indicates how many times out of a thousand the Monte Carlo method is faster than the Leibniz formula at converging to pi, plus or minus one one-thousandth. 
 This program highlights using a **generator** and the **time library**.
